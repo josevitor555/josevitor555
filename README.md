@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS and JS**
 
-- 📫 How to reach me **josevitordesousa123@gmail.com**
+- 📫 How to reach me **koservitor123@gmail.com**
 
 - ⚡ Fun fact **i think i'm android developer**
 
