@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm José Vitor</h1>
 <h3 align="start">A frontend developer from Brazil</h3>
 
-![080fc6b285e3469f1a824d7cbf25f0f1](https://github.com/josevitor555/josevitor555/assets/127617992/f67f7931-df83-4cbd-ac4f-3c21c769ec58)
-
+#
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josevitor555&show_icons=true&theme=radical)
+#
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josevitor555&hide_progress=true)
+#
 
 - 🌱 I’m currently learning **HTML, CSS and JS**
 
@@ -10,3 +13,7 @@
 
 - ⚡ Fun fact **i think i'm android developer**
 
+##
+![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
