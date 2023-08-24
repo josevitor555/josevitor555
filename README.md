@@ -19,4 +19,4 @@
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-![snake animation](https://github.com/<josevitor555>/<josevitor555>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/josevitor555/josevitor555/blob/output/github-contribution-grid-snake2.svg)
