@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm José Vitor</h1>
 <h3 align="start">A developer from Brazil</h3>
 
-#
+##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josevitor555&show_icons=true&theme=radical)
-#
+##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josevitor555&hide_progress=true)
-#
+##
 
 - 🌱 I’m currently learning **HTML, CSS and JS**
 
