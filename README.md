@@ -1,5 +1,5 @@
 <h1 align="flex-start">Hi, I'm José Vitor</h1>
-<h3 align="flex-start">A developer from Brazil</h3>
+<h3 align="flex-start">A developer from Brazil • 🇧🇷</h3>
 
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josevitor555&show_icons=true&theme=radical)
