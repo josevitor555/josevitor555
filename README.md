@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm José Vitor</h1>
+<h1 align="flex-start">Hi, I'm José Vitor</h1>
 <h3 align="start">A developer from Brazil</h3>
 
 ##
