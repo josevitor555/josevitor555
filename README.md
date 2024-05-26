@@ -38,4 +38,4 @@
 
 ##
 
-![Snake animation](https://github.com/josevitor555/josevitor555/blob/output/github-contribution-grid-snake.svg)
+![Snakeanimation](https://github.com/josevitor555/josevitor555/blob/output/github-contribution-grid-snake.svg)
