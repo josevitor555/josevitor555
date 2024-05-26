@@ -7,9 +7,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josevitor555&hide_progress=true)
 ##
 
-- 🌱 I’m currently learning **HTML, CSS and JS**
+- I’m currently learning **HTML, CSS, JavaScript & Bootstrap**
 
-- 📫 How to reach me **josevitordesousa123@gmail.com**
+- Experience in Git & GitHub
+
+- How to reach me **josevitordesousa123@gmail.com**
 
 - ⚡ Fun fact **i think i'm android developer**
 
