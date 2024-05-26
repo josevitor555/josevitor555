@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josevitor555&hide_progress=true)
 ##
 
-[x] 🌱 I’m currently learning **HTML, CSS and JS**
+- 🌱 I’m currently learning **HTML, CSS and JS**
 
 - 📫 How to reach me **josevitordesousa123@gmail.com**
 
