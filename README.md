@@ -3,14 +3,6 @@
 
 ##
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=josevitor555&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
-
-</div>
-
-##
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josevitor555&show_icons=true&theme=radical)
 
 ##
