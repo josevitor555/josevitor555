@@ -11,8 +11,6 @@
 
 - Experience in Git & GitHub
 
-- How to reach me **josevitordesousa123@gmail.com**
-
 - ⚡ Fun fact **i think i'm android developer**
 
 ### Currently studying
