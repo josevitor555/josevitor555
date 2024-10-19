@@ -17,9 +17,10 @@
 - [x] HTML
 - [x] CSS
 - [x] JavaScript
-- [x] Webpack for packaging
+- [x] Webpack
 - [x] TailwindCSS
 - [x] Express Nodejs
+- [x] Python
 
 ### Currently studying
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
