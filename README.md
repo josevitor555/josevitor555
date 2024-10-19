@@ -1,5 +1,5 @@
-<h1 align="flex-start">Hi, I'm José Vitor</h1>
-<h3 align="flex-start">A developer from Brazil • 🇧🇷</h3>
+<h1>Hi, I'm José Vitor</h1>
+<h3>A developer from Brazil • 🇧🇷</h3>
 
 ##
 
@@ -7,11 +7,19 @@
 
 ##
 
-- I’m currently learning **HTML, CSS, JavaScript & Bootstrap**
+- I’m currently learning **HTML, CSS, JavaScript & Tailwind**
 
 - Experience in Git & GitHub
 
 - ⚡ Fun fact **i think i'm android developer**
+
+## My favorite technologies
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
+- [x] Webpack for packaging
+- [x] TailwindCSS
+- [x] Express Nodejs
 
 ### Currently studying
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
