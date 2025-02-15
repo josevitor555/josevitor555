@@ -11,7 +11,7 @@
 
 - Experience in Git & GitHub
 
-- ⚡ Fun fact **i think i'm android developer**
+- ⚡ Fun fact **I think I'm loving embedded systems...**
 
 ## My favorite technologies
 - [x] HTML
