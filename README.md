@@ -7,7 +7,7 @@
 
 ##
 
-- I’m currently learning **HTML, CSS, JavaScript & Tailwind**
+- I’m currently learning **HTML, CSS, JavaScript & ReactJS**
 
 - Experience in Git & GitHub
 
@@ -21,6 +21,8 @@
 - [x] TailwindCSS
 - [x] Express Nodejs
 - [x] Python
+- [x] ReactJs
+- [ ] Next Step: NextJs
 
 ##
 
