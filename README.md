@@ -1,29 +1,37 @@
-<h1>Hi, I'm José Vitor</h1>
-<h3>A developer from Brazil • 🇧🇷</h3>
+<h2> Hi, I'm José Vitor </h2>
 
-##
+<h3> A developer from Brazil • 🇧🇷 </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josevitor555&show_icons=true&theme=radical)
+My name is **José Vitor** — but you can call me ExpertCoding if you vibe with it.  
+I love to break stuff and rebuild from scratch. Code is my sandbox.
 
-##
-
-- I’m currently learning **HTML, CSS, JavaScript & ReactJS**
+---
 
 - Experience in Git & GitHub
 
-- ⚡ Fun fact **I think I'm loving embedded systems...**
+- 🚀 Currently learning **HTML, CSS, JavaScript & ReactJS**
+- 💾 Experience with **Git & GitHub**
+- ⚡ Fun fact: **I'm starting to fall in love with embedded systems... who knew?**
 
-## My favorite technologies
+## 🚀 My favorite technologies
+
+### For Front-End
 - [x] HTML
 - [x] CSS
 - [x] JavaScript
-- [x] Webpack
+- [x] TypsScript
 - [x] TailwindCSS
-- [x] Express Nodejs
-- [x] Python
-- [x] ReactJs
+- [x] Daysi UI
+- [x] Shad CN (Custom Components)
+- [x] Python (In Django)
+- [x] ReactJs (JSX or TSX)
 
-##
+### For Back-End:
+- [x] Express and Nodejs
+- [x] MySQL
+- [x] MongoDB
+- [x] Python
+---
 
 ### Currently studying
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,6 +41,7 @@
 ![](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ### Technologies I want to explore
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
