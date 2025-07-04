@@ -3,6 +3,8 @@
 </p>
 
 > <h1 align="left">Hi 👋, I'm Jose Vitor</h1>
+
+### About me
 <p align="left">
   I embarked on my journey in the technology field back in 2019. Throughout this period—including the onset of the pandemic and extending into 2025—I have accumulated substantial experience and expertise that go far beyond foundational HTML and CSS
 </p>
