@@ -7,6 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josevitor555&label=Profile%20views&color=0e75b6&style=flat" alt="josevitor555" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josevitor555" alt="josevitor555" /></a> </p>
+
 - 🔭 I’m currently working on [DegustaZap](https://github.com/josevitor555/degusta_zap)
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, Django, MongoDB**
