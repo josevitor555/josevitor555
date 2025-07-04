@@ -55,14 +55,15 @@
 
 ## ⚙️ Frameworks & Tools
 <ul>
-  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="20"/> React</li>
-  <li><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="20"/> Tailwind CSS</li>
-  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="20"/> Bootstrap</li>
-  <li><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="20"/> Django</li>
-  <li><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="20"/> Jest</li>
-  <li><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="20"/> Git</li>
-  <li><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="20"/> Postman</li>
-  <li><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="20"/> Figma</li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="20"/> React </li>
+  <li><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="20"/> Tailwind CSS </li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="20"/> Bootstrap </li>
+  <li><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="20"/> Django </li>
+  <li><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="20"/> Jest </li>
+  <li><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="20"/> Git </li>
+  <li><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="20"/> Postman </li>
+  <li><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="20"/> Figma </li>
+  <li> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20"/> NodeJS </li>
 </ul>
 
 ## 🧠 Databases & AI
