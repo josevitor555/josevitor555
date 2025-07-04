@@ -99,6 +99,8 @@
 <p><a href="https://www.buymeacoffee.com/coff.ee/josevitor555"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="coff.ee/josevitor555" /></a><a href="https://ko-fi.com/josevitor555"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="josevitor555" /></a></p><br><br>
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josevitor555&show_icons=true&locale=en&layout=compact" alt="josevitor555" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josevitor555&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="josevitor555" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josevitor555&show_icons=true&locale=en" alt="josevitor555" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josevitor555&show_icons=true&locale=en&theme=tokyonight" alt="josevitor555" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josevitor555&theme=tokyonight" alt="josevitor555" /></p>
