@@ -6,21 +6,7 @@
 
 ### About me
 <p align="left">
-  I embarked on my journey in the technology field back in 2019. Throughout this period—including the onset of the pandemic and extending into 2025—I have accumulated substantial experience and expertise that go far beyond foundational HTML and CSS
-</p>
-
-<p align="left">
-  Initially, my focus was directed toward Front-end development and Web Design. I completed high school in 2023 and began my undergraduate studies in 2024, which has been instrumental in advancing both my academic background and professional skills. During this time, I immersed myself in Python—starting in high school and continuing into university—even though it was not my primary area of interest at the outset. Today, Python remains a crucial part of my stack due to my work with the Django framework.
-</p>
-
-<p align="left">
-  Concurrently, I explored a variety of Front-end technologies, including Vite and Tailwind CSS, and have also developed a strong foundation in branding and visual identity, enabling me to build websites that are not only functional but also strategically cohesive and
-  visually compelling.
-</p>
-
-<p align="left">
-  I have acquired practical knowledge of MySQL and am currently expanding my expertise with MongoDB as part of my university curriculum. At present, my primary objective is to deepen my skills in React.js, Next.js, and TypeScript, thereby broadening my capabilities in
-  modern web application development.
+  I began my journey in technology back in 2019, gaining extensive experience well beyond HTML and CSS, with an initial focus on Front-end development and Web Design. After completing high school in 2023, I started my undergraduate studies in 2024, which have been vital for my academic and professional growth. Along the way, I delved into Python—despite it not being my first interest—and it remains essential today through my work with Django. I’ve explored diverse Front-end tools like Vite and Tailwind CSS, built a solid foundation in branding and visual identity to craft strategic, visually engaging websites, and acquired practical knowledge of MySQL, while expanding into MongoDB at university. Currently, I’m focused on advancing my expertise in React.js, Next.js, and TypeScript to strengthen my capabilities in modern web application development.
 </p>
 
 ---
