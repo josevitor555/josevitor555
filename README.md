@@ -15,11 +15,24 @@
 
 - ⚡ Fun fact **I am funny**
 
-> <h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/josé-vitor-sousa2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josé-vitor-sousa2003" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/kral123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/kral123" height="30" width="40" /></a>
+## 🤝 Connect with me
+<ul>
+  <li>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="20" style="margin-right:8px; vertical-align:middle;"/>
+    <a href="https://linkedin.com/in/www.linkedin.com/in/josé-vitor-sousa2003" target="_blank">
+      LinkedIn
+    </a>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" width="20" style="margin-right:8px; vertical-align:middle;"/>
+    <a href="https://dribbble.com/https://dribbble.com/kral123" target="_blank">
+      Dribbble
+    </a>
+  </li>
+</ul>
 </p>
+
+---
 
 ## 🚀 Languages
 <ul>
