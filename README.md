@@ -3,7 +3,7 @@
 </p>
 
 > <h1 align="left">Hi 👋, I'm Jose Vitor</h1>
-> <h3 align="left">A passionate frontend developer from Brazil</h3>
+<p align="left"> I started my journey in the field in 2019 and, over this period including the onset of the pandemic through 2025. I have gained extensive experience and knowledge beyond HTML and CSS, initially focused on Front-end and Web Design. I completed high school in 2023 and began my undergraduate studies in 2024, furthering my academic and professional development. During this time, I delved into Python, starting in high school and continuing into college, even though it was not my initial focus. Additionally, I explored various Front-end technologies, such as Vite and Tailwind. I also work on branding (visual identity), creating the foundation for cohesive and strategic website designs. Currently, my goal is to deepen my expertise in React.js, Next.js, and TypeScript, expanding my proficiency. </p>
 
 - 🔭 I’m currently working on [DegustaZap](https://github.com/josevitor555/degusta_zap)
 
