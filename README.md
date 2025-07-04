@@ -3,7 +3,23 @@
 </p>
 
 > <h1 align="left">Hi 👋, I'm Jose Vitor</h1>
-<p align="left"> I started my journey in the field in 2019 and, over this period including the onset of the pandemic through 2025. I have gained extensive experience and knowledge beyond HTML and CSS, initially focused on Front-end and Web Design. I completed high school in 2023 and began my undergraduate studies in 2024, furthering my academic and professional development. During this time, I delved into Python, starting in high school and continuing into college, even though it was not my initial focus. Additionally, I explored various Front-end technologies, such as Vite and Tailwind. I also work on branding (visual identity), creating the foundation for cohesive and strategic website designs. Currently, my goal is to deepen my expertise in React.js, Next.js, and TypeScript, expanding my proficiency. </p>
+<p align="left">
+  I embarked on my journey in the technology field back in 2019. Throughout this period—including the onset of the pandemic and extending into 2025—I have accumulated substantial experience and expertise that go far beyond foundational HTML and CSS
+</p>
+
+<p align="left">
+  Initially, my focus was directed toward Front-end development and Web Design. I completed high school in 2023 and began my undergraduate studies in 2024, which has been instrumental in advancing both my academic background and professional skills. During this time, I immersed myself in Python—starting in high school and continuing into university—even though it was not my primary area of interest at the outset. Today, Python remains a crucial part of my stack due to my work with the Django framework.
+</p>
+
+<p align="left">
+  Concurrently, I explored a variety of Front-end technologies, including Vite and Tailwind CSS, and have also developed a strong foundation in branding and visual identity, enabling me to build websites that are not only functional but also strategically cohesive and
+  visually compelling.
+</p>
+
+<p align="left">
+  I have acquired practical knowledge of MySQL and am currently expanding my expertise with MongoDB as part of my university curriculum. At present, my primary objective is to deepen my skills in React.js, Next.js, and TypeScript, thereby broadening my capabilities in
+  modern web application development.
+</p>
 
 ---
 
