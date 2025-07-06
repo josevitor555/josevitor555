@@ -11,7 +11,7 @@
 
 ---
 
-- 🔭 I’m currently working on [DegustaZap](https://github.com/josevitor555/degusta_zap)
+- 🔭 I’m currently working on [[DegustaZap](https://github.com/josevitor555/degusta_zap)](https://github.com/josevitor555/DegustaZap.git)
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, Django, MongoDB**
 
