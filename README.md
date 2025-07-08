@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, Django, MongoDB**
 
-- 📝 I regularly write articles on [https://degusta-artigo.onrender.com/](https://degusta-artigo.onrender.com/)
+- 📝 I regularly write articles on [https://degusta-artigo.onrender.com]([https://degusta-artigo.onrender.com/](https://degusta-artigo.onrender.com))
 
 - 📫 How to reach me **koservitor123@gmail.com**
 
