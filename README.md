@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I am funny**
 
-## 🤝 Connect with me
+### Connect with me
 <ul>
   <li>
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="20" style="margin-right:8px; vertical-align:middle;"/>
@@ -42,15 +42,15 @@
 
 ---
 
-## 🚀 Languages
+### Languages
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" title="HTML5" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" title="CSS3" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" title="JavaScript" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" title="TypeScript" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" title="Python" /> </p>
 
-## ⚙️ Frameworks & Tools
+### Frameworks & Tools
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30" title="React" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30" title="Tailwind CSS" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="30" title="Bootstrap" /> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="30" title="Django" /> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="30" title="Jest" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" title="Git" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30" title="Postman" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="30" title="Figma" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="30" title="NodeJS" /> </p>
 
-## 🧠 Databases & AI
+### Databases & AI
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="30" title="MongoDB" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" title="MySQL" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="30" title="PostgreSQL" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="30" title="Redis" /> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="30" title="TensorFlow" /> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="30" title="PyTorch" /> </p>
----
+
 <h3 align="left">Support</h3>
 <p><a href="https://www.buymeacoffee.com/coff.ee/josevitor555"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="coff.ee/josevitor555" /></a><a href="https://ko-fi.com/josevitor555"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="josevitor555" /></a></p><br><br>
 
