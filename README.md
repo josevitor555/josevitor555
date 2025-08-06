@@ -51,10 +51,8 @@
 ### Databases & AI
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="30" title="MongoDB" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" title="MySQL" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="30" title="PostgreSQL" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="30" title="Redis" /> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="30" title="TensorFlow" /> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="30" title="PyTorch" /> </p>
 
-<h3 align="left">Support</h3>
-<p><a href="https://www.buymeacoffee.com/coff.ee/josevitor555"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="coff.ee/josevitor555" /></a><a href="https://ko-fi.com/josevitor555"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="josevitor555" /></a></p><br><br>
-
 ---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josevitor555&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="josevitor555" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josevitor555&show_icons=true&locale=en&theme=tokyonight" alt="josevitor555" /></p>
