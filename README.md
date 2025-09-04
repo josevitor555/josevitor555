@@ -14,6 +14,7 @@
 - 🔭 I’m currently working on:
   - https://github.com/josevitor555/DegustaZap.git
   - https://github.com/josevitor555/black_thunder.git (My Fav)
+  - My porfolio: https://josevitor-portfolio.onrender.com/ (My Fav Too)
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, Django, MongoDB**
 
