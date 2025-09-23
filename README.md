@@ -20,7 +20,7 @@
 
 - 📝 I regularly write articles on https://degusta-artigo.onrender.com
 
-- 📫 How to reach me **koservitor123@gmail.com**
+- 📫 How to reach me **josevitordesousa123@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
