@@ -8,16 +8,18 @@
 ---
 
 ### Featured Projects  
-- [if_mais](https://github.com/josevitor555/if_mais.git) — Projeto ativo, integrando front-end e back-end com atenção a UX e funcionalidade.  
-- [black_thunder](https://github.com/josevitor555/black_thunder.git) — Aplicação com identidade visual forte, foco em branding e engenharia de interface-usuário.  
-- [Portfolio Pessoal](https://josevitor-portfolio.onrender.com/) — Website pessoal, construído do zero, combinando estratégia, design e código.
+- [if_mais](https://github.com/josevitor555/if_mais.git) — Active project integrating front-end and back-end with attention to UX and functionality.  
+- [black_thunder](https://github.com/josevitor555/black_thunder.git) — Application with strong visual identity, focused on branding and interface engineering.  
+- [Personal Portfolio](https://josevitor-portfolio.onrender.com/) — Website built from scratch, combining strategy, design, and code.
 
 ---
 
 ### About Me  
-In 2019 I began my professional journey in technology, initially focusing on front-end development and web design. Since then I have accumulated broad experience beyond HTML and CSS. After completing high school in 2023, I enrolled in the Systems Analysis and Development undergraduate program in 2024 — a significant step in both my academic and professional development.  
-Along the way I adopted **Python** and now regularly use the **Django** framework for robust web application development. I have also engaged deeply with front-end tooling (such as Vite and Tailwind CSS), developed a foundation in branding and visual identity to craft strategic and visually engaging websites, and acquired practical skills in **MySQL** while expanding into **MongoDB** at university. Currently, my objective is to advance in **React.js**, **Next.js** and **TypeScript**, strengthening my capacity to build modern web applications.  
-Additionally, I have developed strong proficiency in **MySQL**, **MongoDB**, and **Supabase**, leveraging three distinct database technologies in my workflow.
+I began my professional journey in technology in 2019, initially focusing on front-end development and web design. Since then, I have accumulated broad experience extending well beyond HTML and CSS. After completing high school in 2023, I enrolled in the Systems Analysis and Development undergraduate program in 2024 — a significant step in my academic and professional evolution.  
+
+Along the way, I adopted **Python** and currently use the **Django** framework for developing robust web applications. I have also delved deeply into front-end tooling (such as **Vite** and **Tailwind CSS**), developed a strong foundation in **branding** and **visual identity** to craft strategic and visually engaging websites, and built practical skills in **MySQL**, expanding into **MongoDB** at university.  
+
+Currently, I focus on advancing my expertise in **React.js**, **Next.js**, and **TypeScript** to enhance my capability in building modern, scalable web applications. I also maintain strong proficiency in **MySQL**, **MongoDB**, and **Supabase**, integrating three distinct database technologies in my workflow.
 
 ---
 
@@ -36,11 +38,11 @@ Additionally, I have developed strong proficiency in **MySQL**, **MongoDB**, and
 - MySQL (relational)  
 - MongoDB (NoSQL)  
 - Supabase (database + authentication + realtime)  
-- API development (REST, GraphQL)
+- RESTful & GraphQL API Development
 
 **Tools & Workflow**  
 - Git & GitHub (version control, collaboration)  
-- VS Code with productivity extensions  
+- VS Code (with productivity extensions)  
 - Agile methodologies (SCRUM, Kanban)  
 - Responsive design / Mobile-First approach  
 - Unit and integration testing fundamentals
@@ -48,11 +50,11 @@ Additionally, I have developed strong proficiency in **MySQL**, **MongoDB**, and
 ---
 
 ### Learning Focus  
-- Deepen expertise in TypeScript with advanced typing  
-- Undertake projects using Next.js featuring SSR/SSG and API Routes  
-- Improve web application performance and SEO  
-- Expand understanding of DevOps: CI/CD pipelines, containerization, automated deployments  
-- Continue applying branding and visual identity design to digital products
+- Strengthen expertise in TypeScript with advanced typing  
+- Develop projects using Next.js with SSR/SSG and API Routes  
+- Improve application performance and SEO  
+- Expand knowledge in DevOps: CI/CD pipelines, containerization, automated deployments  
+- Apply branding and visual identity principles to digital product development
 
 ---
 
@@ -60,33 +62,39 @@ Additionally, I have developed strong proficiency in **MySQL**, **MongoDB**, and
 - Primary languages: JavaScript, TypeScript, Python  
 - Public repositories: *[insert number]*  
 - Commits in 2025: *[insert number]*  
-- Completed projects: *[insert approximate number or descriptive phrase]*  
+- Completed projects: *[insert number or descriptive phrase]*  
 - Open-source contributions: *[if applicable]*
 
 ---
 
 ### Connect with Me  
-[LinkedIn Profile]  
-[GitHub Profile]  
-Email: josevitordesousa123@gmail.com  
-Portfolio: https://josevitor-portfolio.onrender.com/
-
----
-
-### Badges & Social Links  
 <p align="left">
   <a href="https://linkedin.com/in/josé-vitor-sousa2003" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jose Vitor-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="https://dribbble.com/kral123" target="_blank">
-    <img src="https://img.shields.io/badge/Dribbble-kral123-pink?style=flat-square&logo=dribbble&logoColor=white" alt="Dribbble"/>
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/josevitor555" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>&nbsp;&nbsp;
   <a href="mailto:josevitordesousa123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://dribbble.com/kral123" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://josevitor-portfolio.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
-Thank you for reviewing my profile.  
-I look forward to collaborating and building impactful web solutions.
+### Stats  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=josevitor555&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevitor555&layout=compact&theme=default&hide_border=true" height="150" alt="Top Languages" />
+</p>
+
+---
+
+Thank you for visiting my profile.  
+Let’s connect and build impactful web solutions.
