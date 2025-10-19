@@ -83,6 +83,19 @@ These integrations reflect experience in handling API authentication, request/re
 
 ---
 
+### AI-Powered IDEs & Tools
+
+I have experience working with several integrated development environments (IDEs) enhanced with AI capabilities, which have streamlined coding, debugging, and project management. Examples include:
+
+- **VS Code with GitHub Copilot** — Leveraged AI-assisted code suggestions, autocompletion, and refactoring.  
+- **Trae** — Used for code analysis and intelligent workflow enhancements.  
+- **Qoder** — Applied for AI-driven development insights and code generation.  
+- **Cursor** — Integrated for real-time AI-assisted coding and context-aware suggestions.
+
+These tools reflect my proficiency in combining AI capabilities with traditional development workflows to increase efficiency and code quality.
+
+---
+
 ### Connect with Me  
 <p align="left">
   <a href="https://linkedin.com/in/josé-vitor-sousa2003" target="_blank">
