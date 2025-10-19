@@ -8,7 +8,7 @@
 ---
 
 ### Featured Projects  
-- [if_mais](https://github.com/josevitor555/if_mais.git) — Active project integrating front-end and back-end with attention to UX and functionality.  
+- [if_mais](https://github.com/josevitor555/sistema-de-gerenciamento.git) — Active project integrating front-end and back-end with attention to UX and functionality.  
 - [black_thunder](https://github.com/josevitor555/black_thunder.git) — Application with strong visual identity, focused on branding and interface engineering.  
 - [Personal Portfolio](https://josevitor-portfolio.onrender.com/) — Website built from scratch, combining strategy, design, and code.
 
