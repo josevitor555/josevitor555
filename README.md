@@ -59,11 +59,13 @@ Currently, I focus on advancing my expertise in **React.js**, **Next.js**, and *
 ---
 
 ### GitHub-based Metrics  
-- Primary languages: JavaScript, TypeScript, Python  
-- Public repositories: 95
-- Total commits: 681
-- Completed projects: *[insert number or descriptive phrase]*  
-- Open-source contributions: *[if applicable]*
+- Public Repositories: 139  
+- Commits in 2025: 284  
+- Open-source Contributions: 43  
+- Completed Projects: 99  
+- Pull Requests: 0  
+- Issues: 2  
+- Restricted (private) contributions: 0  
 
 ---
 
