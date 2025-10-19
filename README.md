@@ -60,7 +60,7 @@ Currently, I focus on advancing my expertise in **React.js**, **Next.js**, and *
 
 ### GitHub-based Metrics  
 - Primary languages: JavaScript, TypeScript, Python  
-- Public repositories: *[insert number]*  
+- Public repositories: 95
 - Commits in 2025: *[insert number]*  
 - Completed projects: *[insert number or descriptive phrase]*  
 - Open-source contributions: *[if applicable]*
