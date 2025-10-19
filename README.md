@@ -2,59 +2,91 @@
   <img src="https://moodle.novasbe.pt/pluginfile.php/673401/course/section/73184/f2px36fy.gif" alt="banner" />
 </p>
 
-> <h1 align="left">Hi 👋, I'm Jose Vitor</h1>
+<h1 align="left">Hi, I’m Jose Vitor</h1>
+<h3 align="left">Full-stack Web Developer & Systems Analysis Student</h3>
 
-### About me
+---
+
+### Featured Projects  
+- [if_mais](https://github.com/josevitor555/if_mais.git) — Projeto ativo, integrando front-end e back-end com atenção a UX e funcionalidade.  
+- [black_thunder](https://github.com/josevitor555/black_thunder.git) — Aplicação com identidade visual forte, foco em branding e engenharia de interface-usuário.  
+- [Portfolio Pessoal](https://josevitor-portfolio.onrender.com/) — Website pessoal, construído do zero, combinando estratégia, design e código.
+
+---
+
+### About Me  
+In 2019 I began my professional journey in technology, initially focusing on front-end development and web design. Since then I have accumulated broad experience beyond HTML and CSS. After completing high school in 2023, I enrolled in the Systems Analysis and Development undergraduate program in 2024 — a significant step in both my academic and professional development.  
+Along the way I adopted **Python** and now regularly use the **Django** framework for robust web application development. I have also engaged deeply with front-end tooling (such as Vite and Tailwind CSS), developed a foundation in branding and visual identity to craft strategic and visually engaging websites, and acquired practical skills in **MySQL** while expanding into **MongoDB** at university. Currently, my objective is to advance in **React.js**, **Next.js** and **TypeScript**, strengthening my capacity to build modern web applications.  
+Additionally, I have developed strong proficiency in **MySQL**, **MongoDB**, and **Supabase**, leveraging three distinct database technologies in my workflow.
+
+---
+
+### Technical Stack  
+
+**Front-end**  
+- HTML5, CSS3 (semantic markup, accessibility)  
+- JavaScript / ES6+  
+- React.js, Next.js  
+- TypeScript  
+- Vite, Tailwind CSS  
+- UX/UI & Branding (visual identity, usability)
+
+**Back-end & Databases**  
+- Python + Django  
+- MySQL (relational)  
+- MongoDB (NoSQL)  
+- Supabase (database + authentication + realtime)  
+- API development (REST, GraphQL)
+
+**Tools & Workflow**  
+- Git & GitHub (version control, collaboration)  
+- VS Code with productivity extensions  
+- Agile methodologies (SCRUM, Kanban)  
+- Responsive design / Mobile-First approach  
+- Unit and integration testing fundamentals
+
+---
+
+### Learning Focus  
+- Deepen expertise in TypeScript with advanced typing  
+- Undertake projects using Next.js featuring SSR/SSG and API Routes  
+- Improve web application performance and SEO  
+- Expand understanding of DevOps: CI/CD pipelines, containerization, automated deployments  
+- Continue applying branding and visual identity design to digital products
+
+---
+
+### GitHub-based Metrics  
+- Primary languages: JavaScript, TypeScript, Python  
+- Public repositories: *[insert number]*  
+- Commits in 2025: *[insert number]*  
+- Completed projects: *[insert approximate number or descriptive phrase]*  
+- Open-source contributions: *[if applicable]*
+
+---
+
+### Connect with Me  
+[LinkedIn Profile]  
+[GitHub Profile]  
+Email: josevitordesousa123@gmail.com  
+Portfolio: https://josevitor-portfolio.onrender.com/
+
+---
+
+### Badges & Social Links  
 <p align="left">
-  I began my journey in technology back in 2019, gaining extensive experience well beyond HTML and CSS, with an initial focus on Front-end development and Web Design. After completing high school in 2023, I started my undergraduate studies in 2024, which have been vital for my academic and professional growth. Along the way, I delved into Python—despite it not being my first interest—and it remains essential today through my work with Django. I’ve explored diverse Front-end tools like Vite and Tailwind CSS, built a solid foundation in branding and visual identity to craft strategic, visually engaging websites, and acquired practical knowledge of MySQL, while expanding into MongoDB at university. Currently, I’m focused on advancing my expertise in React.js, Next.js, and TypeScript to strengthen my capabilities in modern web application development.
+  <a href="https://linkedin.com/in/josé-vitor-sousa2003" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jose Vitor-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://dribbble.com/kral123" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-kral123-pink?style=flat-square&logo=dribbble&logoColor=white" alt="Dribbble"/>
+  </a>&nbsp;
+  <a href="mailto:josevitordesousa123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-- 🔭 I’m currently working on:
-  - https://github.com/josevitor555/if_mais.git
-  - https://github.com/josevitor555/black_thunder.git (My Fav)
-  - My porfolio: https://josevitor-portfolio.onrender.com/ (My Fav Too)
-
-- 🌱 I’m currently learning **JavaScript, TypeScript, Django, MongoDB**
-
-- 📝 I regularly write articles on https://degusta-artigo.onrender.com
-
-- 📫 How to reach me **josevitordesousa123@gmail.com**
-
-- ⚡ Fun fact **I am funny**
-
-### Connect with me
-<ul>
-  <li>
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="20" style="margin-right:8px; vertical-align:middle;"/>
-    <a href="https://linkedin.com/in/www.linkedin.com/in/josé-vitor-sousa2003" target="_blank">
-      LinkedIn
-    </a>
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" width="20" style="margin-right:8px; vertical-align:middle;"/>
-    <a href="https://dribbble.com/https://dribbble.com/kral123" target="_blank">
-      Dribbble
-    </a>
-  </li>
-</ul>
-</p>
-
----
-
-### Languages
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" title="HTML5" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" title="CSS3" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" title="JavaScript" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" title="TypeScript" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" title="Python" /> </p>
-
-### Frameworks & Tools
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30" title="React" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30" title="Tailwind CSS" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="30" title="Bootstrap" /> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="30" title="Django" /> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="30" title="Jest" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" title="Git" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30" title="Postman" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="30" title="Figma" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="30" title="NodeJS" /> </p>
-
-### Databases & AI
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="30" title="MongoDB" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" title="MySQL" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="30" title="PostgreSQL" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="30" title="Redis" /> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="30" title="TensorFlow" /> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="30" title="PyTorch" /> </p>
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josevitor555&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="josevitor555" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josevitor555&show_icons=true&locale=en&theme=tokyonight" alt="josevitor555" /></p>
-
+Thank you for reviewing my profile.  
+I look forward to collaborating and building impactful web solutions.
