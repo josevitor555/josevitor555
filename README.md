@@ -69,6 +69,20 @@ Currently, I focus on advancing my expertise in **React.js**, **Next.js**, and *
 
 ---
 
+### AI & LLM Integrations
+
+Throughout my projects, I have integrated several AI and large language model (LLM) APIs, demonstrating both technical proficiency and the ability to leverage cutting-edge AI technologies in real-world applications. Examples of integrated platforms include:
+
+- **ChatGPT** — OpenAI’s conversational LLM, used for chatbots and context-aware assistants.  
+- **Gemini** — Implemented for intelligent data analysis and response generation.  
+- **Grok** — Integrated for semantic understanding and natural language tasks.  
+- **Claude** — Applied in multi-turn conversation scenarios and workflow automation.  
+- **DeepSeekl** — Used for advanced search, recommendation, and contextual reasoning.
+
+These integrations reflect experience in handling API authentication, request/response handling, context management, and embedding AI-powered features into web applications.
+
+---
+
 ### Connect with Me  
 <p align="left">
   <a href="https://linkedin.com/in/josé-vitor-sousa2003" target="_blank">
