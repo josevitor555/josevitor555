@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="http://googleusercontent.com/image_generation_content/0" alt="José Vitor | Full-Stack AI Innovator Banner" />
+  <img src="<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/0e9154d3-1ace-4e23-81bc-1f659cb851d7" />
+" />
 </p>
 
 # Hi, I’m Jose Vitor
