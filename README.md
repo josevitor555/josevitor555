@@ -113,7 +113,7 @@ These tools reflect my proficiency in combining AI capabilities with traditional
     <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
   </a>&nbsp;&nbsp;
   <a href="https://josevitor-portfolio.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="[https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white](https://my-portfolio2025-rx2d.onrender.com/)" alt="Portfolio"/>
   </a>
 </p>
 
