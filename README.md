@@ -110,9 +110,11 @@ These tools reflect my proficiency in combining AI capabilities with traditional
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>&nbsp;&nbsp;
   <a href="https://dribbble.com/kral123" target="_blank">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
+    <img src="https://dribbble.com/kral123" alt="Dribbble"/>
   </a>&nbsp;&nbsp;
 </p>
+
+
 
 ---
 
