@@ -48,7 +48,7 @@ I leverage cutting-edge AI technologies to innovate and streamline development, 
 | **LLMs (API Integration)** | ChatGPT, Gemini, Grok, Claude | Chatbots, Intelligent Data Analysis, Semantic Understanding. |
 | **AI-Powered IDEs** | GitHub Copilot, Trae, Qoder, Cursor | Code generation, Real-time suggestions, Debugging, Efficiency. |
 
-*Exemplo de Aplicação: No projeto IAArena, implementei o modelo Gemma, com uma janela de contexto menor que o do Gemini, para fins de teste antes do lançamento da versão beta.*
+*Exemplo de Aplicação: No projeto if\_mais, implementei um assistente virtual (powered by Gemini API) para auxiliar na criação de tarefas com base em contextos de linguagem natural.*
 
 **Badges:**
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -74,6 +74,9 @@ I leverage cutting-edge AI technologies to innovate and streamline development, 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=josevitor555&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevitor555&layout=compact&theme=default&hide_border=true" height="150" alt="Top Languages" />
+</p>
+<p align="left">
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=josevitor555&theme=merko&hide_border=true)](https://git.io/streak-stats)
 </p>
 
 ---
