@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://moodle.novasbe.pt/pluginfile.php/673401/course/section/73184/f2px36fy.gif" alt="banner" />
+  <img src="http://googleusercontent.com/image_generation_content/0" alt="José Vitor | Full-Stack AI Innovator Banner" />
 </p>
 
 # Hi, I’m Jose Vitor
