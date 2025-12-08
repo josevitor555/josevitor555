@@ -9,7 +9,7 @@
 
 ---
 
-## Featured Projects (Focus: Full-Stack & Innovation)
+### Featured Projects (Focus: Full-Stack & Innovation)
 *Destaque para a integração de sistemas complexos e interfaces estratégicas.*
 
 | Projeto | Descrição | Stack Principal | Status |
@@ -21,7 +21,7 @@
 
 ---
 
-## About Me
+### About Me
 I began my professional journey in technology in 2019, initially focusing on front-end development and web design. This initial focus on **UX/UI and visual identity** is now a core strength, ensuring the robust applications I build are also strategic and highly engaging.
 
 After completing high school in 2023, I enrolled in the Systems Analysis and Development undergraduate program in 2024. I specialize in **Python** (specifically the **Django** framework) for building reliable backends, and I am focused on the modern front-end ecosystem: **React.js**, **Next.js**, and **TypeScript**. I maintain practical experience with a multi-paradigm database workflow, integrating **MySQL**, **MongoDB**, and **Supabase** across my projects.
@@ -40,7 +40,7 @@ After completing high school in 2023, I enrolled in the Systems Analysis and Dev
 
 ---
 
-## AI & LLM Integration (A Core Differentiator)
+### AI & LLM Integration (A Core Differentiator)
 I leverage cutting-edge AI technologies to innovate and streamline development, demonstrating proficiency in handling complex API integrations and context management.
 
 | Platform | Type | Use Case/Role |
@@ -58,7 +58,7 @@ I leverage cutting-edge AI technologies to innovate and streamline development, 
 
 ---
 
-## Learning Focus & Next Steps
+### Learning Focus & Next Steps
 | Área de Foco | Detalhe | Objetivo Estratégico |
 | :--- | :--- | :--- |
 | **Front-end Avançado** | Next.js, TypeScript (advanced typing) | Melhorar performance (SSR/SSG), escalabilidade e manutenibilidade do código. |
@@ -68,7 +68,7 @@ I leverage cutting-edge AI technologies to innovate and streamline development, 
 
 ---
 
-## GitHub Metrics & Activity
+### GitHub Metrics & Activity
 *Public Repositories: 139 | Commits in 2025: 284 | Completed Projects: 99*
 
 <p align="left">
@@ -77,7 +77,7 @@ I leverage cutting-edge AI technologies to innovate and streamline development, 
 
 ---
 
-## Connect with Me
+### Connect with Me
 
 I am actively seeking roles where I can apply my full-stack skills and deepen my expertise in Next.js/TypeScript and DevOps.
 
