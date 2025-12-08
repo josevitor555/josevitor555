@@ -98,8 +98,13 @@ I am actively seeking roles where I can apply my full-stack skills and deepen my
 
 ---
 
+## My YouTube Channel about IAArena Project
+Showcasing development progress, tutorials, and deep dives into the IAArena project (Content primarily in Brazilian Portuguese).
+
+**Channel Link:** [https://www.youtube.com/@IAArena-b8b](https://www.youtube.com/@IAArena-b8b)
+
+**Subscribe for more information about this project!**
+
 ## Conclusion
 
 Thank you for reviewing my profile and the solutions I'm building. My work is defined by the intersection of robust backend engineering, cutting-edge frontend architecture, and strategic branding. I am passionate about technology and dedicated to continuous improvement and innovation, especially in the AI and DevOps space.
-
-**Follow me on GitHub to track my latest projects and contributions.**
