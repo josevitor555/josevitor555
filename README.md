@@ -14,7 +14,7 @@
 
 | Project | Description | Main Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[Portfolio my SAAS](https://portolio-iaarena.onrender.com/)** | Website in production, combining strategy, design, and code, serving as a portal for my projects and skills. | Next.js, TypeScript, Tailwind CSS, Supabase | Live (Production) |
+| **[Portfolio my SAAS](https://portolio-iaarena.onrender.com/)** | IAArena aims to transform the way humans interact, learn, and debate with artificial intelligence. More than just a chat, it's a space for argumentation, creativity, and critical thinking mediated by AI—an environment where reasoning becomes a game. | Next.js, TypeScript, Tailwind CSS, Supabase | Live (Production) |
 | **[if_mais](https://github.com/josevitor555/sistema-de-gerenciamento.git)** | Active project integrating front-end and back-end with attention to UX and functionality. | Django, React, MySQL, RESTful API | Active |
 | **[black_thunder](https://github.com/josevitor555/black_thunder.git)** | Application with strong visual identity, focused on branding and interface engineering. | React, SCSS, UX/UI, Vite | Complete |
 | **[Chronos Tasks](https://github.com/josevitor555/tasks_project.git)** | School assignment about task management systems, demonstrating proficiency in both backend and frontend frameworks. | Django, React, PostgreSQL | Complete |
