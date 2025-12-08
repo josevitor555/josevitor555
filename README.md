@@ -72,7 +72,7 @@ I leverage cutting-edge AI technologies to innovate and streamline development, 
 *Public Repositories: 139 | Commits in 2025: 284 | Completed Projects: 99*
 
 <p align="left">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=josevitor555&theme=merko&hide_border=true" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=josevitor555&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
