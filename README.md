@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0e9154d3-1ace-4e23-81bc-1f659cb851d7" alt="José Vitor Profile Banner" />
 </p>
 
 # Hi, I’m Jose Vitor
