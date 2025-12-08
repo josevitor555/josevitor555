@@ -1,4 +1,5 @@
 <p align="center">
+    <img width="1024" height="734" alt="Gemini_Generated_Image_7ri2ny7ri2ny7ri2" src="https://github.com/user-attachments/assets/9793bb2b-6ea7-4829-8086-20b49f93a989" />
 </p>
 
 ### Hi, I’m Jose Vitor
