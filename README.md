@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 
-# Hi, I’m Jose Vitor
+#### Hi, I’m Jose Vitor
 ### Full-stack Web Developer & Systems Analysis Student
 
 **Bridging strategic design and robust engineering to build modern web applications.**
