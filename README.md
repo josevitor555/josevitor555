@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0e9154d3-1ace-4e23-81bc-1f659cb851d7" alt="Banner do Perfil de José Vitor" />
+  <img src="https://github.com/user-attachments/assets/0e9154d3-1ace-4e23-81bc-1f659cb851d7" alt="José Vitor Profile Banner" />
 </p>
 
 # Hi, I’m Jose Vitor
@@ -9,19 +9,19 @@
 
 ---
 
-### Featured Projects (Focus: Full-Stack & Innovation)
-*Destaque para a integração de sistemas complexos e interfaces estratégicas.*
+## Featured Projects (Focus: Full-Stack & Innovation)
+*Highlighting the integration of complex systems and strategic interfaces.*
 
-| Projeto | Descrição | Stack Principal | Status |
+| Project | Description | Main Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[Portfolio my SAAS](https://portolio-iaarena.onrender.com/)** | Website em produção, combinando estratégia, design, e código. | Next.js, TypeScript, Tailwind CSS, Supabase | Live (Produção) |
-| **[if_mais](https://github.com/josevitor555/sistema-de-gerenciamento.git)** | Active project integrating front-end and back-end with attention to UX and functionality. | Django, React, MySQL, RESTful API | Ativo |
-| **[black_thunder](https://github.com/josevitor555/black_thunder.git)** | Application with strong visual identity, focused on branding and interface engineering. | React, SCSS, UX/UI, Vite | Completo |
-| **[Chronos Tasks](https://github.com/josevitor555/tasks_project.git)** | School assignment about task management systems, demonstrating proficiency in both backend and frontend frameworks. | Django, React, PostgreSQL | Completo |
+| **[Portfolio my SAAS](https://portolio-iaarena.onrender.com/)** | Website in production, combining strategy, design, and code, serving as a portal for my projects and skills. | Next.js, TypeScript, Tailwind CSS, Supabase | Live (Production) |
+| **[if_mais](https://github.com/josevitor555/sistema-de-gerenciamento.git)** | Active project integrating front-end and back-end with attention to UX and functionality. | Django, React, MySQL, RESTful API | Active |
+| **[black_thunder](https://github.com/josevitor555/black_thunder.git)** | Application with strong visual identity, focused on branding and interface engineering. | React, SCSS, UX/UI, Vite | Complete |
+| **[Chronos Tasks](https://github.com/josevitor555/tasks_project.git)** | School assignment about task management systems, demonstrating proficiency in both backend and frontend frameworks. | Django, React, PostgreSQL | Complete |
 
 ---
 
-### About Me
+## About Me
 I began my professional journey in technology in 2019, initially focusing on front-end development and web design. This initial focus on **UX/UI and visual identity** is now a core strength, ensuring the robust applications I build are also strategic and highly engaging.
 
 After completing high school in 2023, I enrolled in the Systems Analysis and Development undergraduate program in 2024. I specialize in **Python** (specifically the **Django** framework) for building reliable backends, and I am focused on the modern front-end ecosystem: **React.js**, **Next.js**, and **TypeScript**. I maintain practical experience with a multi-paradigm database workflow, integrating **MySQL**, **MongoDB**, and **Supabase** across my projects.
@@ -40,7 +40,7 @@ After completing high school in 2023, I enrolled in the Systems Analysis and Dev
 
 ---
 
-### AI & LLM Integration (A Core Differentiator)
+## AI & LLM Integration (A Core Differentiator)
 I leverage cutting-edge AI technologies to innovate and streamline development, demonstrating proficiency in handling complex API integrations and context management.
 
 | Platform | Type | Use Case/Role |
@@ -48,7 +48,7 @@ I leverage cutting-edge AI technologies to innovate and streamline development, 
 | **LLMs (API Integration)** | ChatGPT, Gemini, Grok, Claude | Chatbots, Intelligent Data Analysis, Semantic Understanding. |
 | **AI-Powered IDEs** | GitHub Copilot, Trae, Qoder, Cursor | Code generation, Real-time suggestions, Debugging, Efficiency. |
 
-*Exemplo de Aplicação: No projeto if\_mais, implementei um assistente virtual (powered by Gemini API) para auxiliar na criação de tarefas com base em contextos de linguagem natural.*
+*Application Example: In the if\_mais project, I implemented a virtual assistant (powered by Gemini API) to help create tasks based on natural language contexts.*
 
 **Badges:**
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -58,26 +58,30 @@ I leverage cutting-edge AI technologies to innovate and streamline development, 
 
 ---
 
-### Learning Focus & Next Steps
-| Área de Foco | Detalhe | Objetivo Estratégico |
+## Learning Focus & Next Steps
+| Area of Focus | Detail | Strategic Goal |
 | :--- | :--- | :--- |
-| **Front-end Avançado** | Next.js, TypeScript (advanced typing) | Melhorar performance (SSR/SSG), escalabilidade e manutenibilidade do código. |
-| **DevOps** | CI/CD pipelines, Containerization | Aumentar a agilidade de deploy e o gerenciamento de infraestrutura. |
-| **Qualidade Web** | Performance, SEO, Acessibilidade | Garantir que os produtos digitais sejam otimizados para o mercado e usuários. |
-| **Branding** | Aplicação de princípios em produtos digitais | Desenvolver soluções que sejam tecnicamente sólidas e estrategicamente alinhadas à marca. |
+| **Advanced Frontend** | Next.js, TypeScript (advanced typing) | Improve performance (SSR/SSG), scalability, and code maintainability. |
+| **DevOps** | CI/CD pipelines, Containerization | Increase deployment agility and infrastructure management. |
+| **Web Quality** | Performance, SEO, Accessibility | Ensure digital products are optimized for the market and users. |
+| **Branding** | Application of principles in digital products | Develop solutions that are technically solid and strategically aligned with the brand. |
 
 ---
 
-### GitHub Metrics & Activity
+## GitHub Metrics & Activity
 *Public Repositories: 139 | Commits in 2025: 284 | Completed Projects: 99*
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=josevitor555&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevitor555&layout=compact&theme=default&hide_border=true" height="150" alt="Top Languages" />
+</p>
 <p align="left">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=josevitor555&theme=merko&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
 
-### Connect with Me
+## Connect with Me
 
 I am actively seeking roles where I can apply my full-stack skills and deepen my expertise in Next.js/TypeScript and DevOps.
 
