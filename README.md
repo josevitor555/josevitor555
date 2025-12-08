@@ -77,7 +77,7 @@ I leverage cutting-edge AI technologies to innovate and streamline development, 
 </p>
 
 <p align="left">
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=josevitor555&theme=merko&hide_border=true)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=josevitor555&theme=merko&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
