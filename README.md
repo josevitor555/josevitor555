@@ -27,7 +27,7 @@ After completing high school in 2023, I enrolled in the Systems Analysis and Dev
 
 ---
 
-## Technical Stack (Skills Overview)
+### Technical Stack (Skills Overview)
 
 | Category | Key Technologies | Architectural Focus |
 | :--- | :--- | :--- |
