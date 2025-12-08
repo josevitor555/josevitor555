@@ -48,7 +48,7 @@ I leverage cutting-edge AI technologies to innovate and streamline development, 
 | **LLMs (API Integration)** | ChatGPT, Gemini, Grok, Claude | Chatbots, Intelligent Data Analysis, Semantic Understanding. |
 | **AI-Powered IDEs** | GitHub Copilot, Trae, Qoder, Cursor | Code generation, Real-time suggestions, Debugging, Efficiency. |
 
-*Application Example: In the if\_mais project, I implemented a virtual assistant (powered by Gemini API) to help create tasks based on natural language contexts.*
+*One example of application was the implementation of the Gemma Model in addition to the more popular Gemini model. The goal was to test and validate the LLM responses in the application's MVP before the beta release.*
 
 **Badges:**
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
