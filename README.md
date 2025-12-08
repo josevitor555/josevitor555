@@ -98,7 +98,7 @@ I am actively seeking roles where I can apply my full-stack skills and deepen my
 
 ---
 
-## My YouTube Channel about IAArena Project
+### My YouTube Channel about IAArena Project
 Showcasing development progress, tutorials, and deep dives into the IAArena project (Content primarily in Brazilian Portuguese).
 
 **Channel Link:** [https://www.youtube.com/@IAArena-b8b](https://www.youtube.com/@IAArena-b8b)
