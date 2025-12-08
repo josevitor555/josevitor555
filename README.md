@@ -17,7 +17,7 @@
 | **[Portfolio my SAAS](https://portolio-iaarena.onrender.com/)** | IAArena aims to transform the way humans interact, learn, and debate with artificial intelligence. More than just a chat, it's a space for argumentation, creativity, and critical thinking mediated by AI—an environment where reasoning becomes a game. | Next.js, TypeScript, Tailwind CSS, Supabase | Live (Production) |
 | **[if_mais](https://github.com/josevitor555/sistema-de-gerenciamento.git)** | Active project integrating front-end and back-end with attention to UX and functionality. | Django, React, MySQL, RESTful API | Active |
 | **[black_thunder](https://github.com/josevitor555/black_thunder.git)** | Application with strong visual identity, focused on branding and interface engineering. | React, SCSS, UX/UI, Vite | Complete |
-| **[E-commercer With Stripe Integration](https://github.com/josevitor555/SolarProject)** | An e-commerce platform for solar panels, with an authentication system built in Django (Python). The system is still in production with an interface built in React (TypeScript) and integrated with a payment system called Stripe. | Django, React, PostgreSQL | Complete |
+| **[E-commercer With Stripe Integration](https://github.com/josevitor555/SolarProject)** | An e-commerce platform for solar panels, with an authentication system built in Django (Python). The system is still in production with an interface built in React (TypeScript) and integrated with a payment system called Stripe. | Django, React, PostgreSQL | In Production |
 
 ---
 
