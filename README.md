@@ -1,8 +1,6 @@
 <p align="center">
     <img width="1024" height="734" alt="https://github.com/user-attachments/assets/da2a8fd5-2249-44cc-b92c-ce47e8bd7eae" src="https://github.com/user-attachments/assets/da2a8fd5-2249-44cc-b92c-ce47e8bd7eae" />
 </p>
-![cosmos](https://github.com/user-attachments/assets/da2a8fd5-2249-44cc-b92c-ce47e8bd7eae)
-
 
 ### Hi, I’m Jose Vitor
 ### Full-stack Web Developer & Systems Analysis Student
