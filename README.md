@@ -14,6 +14,7 @@
 | **[if_mais](https://github.com/josevitor555/sistema-de-gerenciamento.git)** | Active project integrating front-end and back-end with attention to UX and functionality. | Django, React, MySQL, RESTful API | Active |
 | **[black_thunder](https://github.com/josevitor555/black_thunder.git)** | Application with strong visual identity, focused on branding and interface engineering. | React, SCSS, UX/UI, Vite | Complete |
 | **[E-commercer With Stripe Integration](https://github.com/josevitor555/SolarProject)** | An e-commerce platform for solar panels, with an authentication system built in Django (Python). The system is still in production with an interface built in React (TypeScript) and integrated with a payment system called Stripe. | Django, React, PostgreSQL | In Production |
+| **[Cosmos - Portfolio AI](https://my-portfolio2025-langchain-1.onrender.com/)** | An intelligent assistant that navigates a 1024-dimensional vector space. It uses RAG (Retrieval-Augmented Generation) to process my professional history and respond with high precision and personality. | LangChain, Node.js, MongoDB Atlas (Vector Search), Mistral AI | Live (Production)
 
 ---
 
