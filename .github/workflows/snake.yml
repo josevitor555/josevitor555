@@ -27,7 +27,10 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#39d353&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            # Cores para o modo claro (agora personalizadas também)
+            dist/github-contribution-grid-snake.svg?color_snake=#74aa9c&color_dots=#161b22,#392b5b,#5a3e91,#7c52c6,#9d66ff
+            
+            # Cores para o modo escuro
             dist/github-contribution-grid-snake-dark.svg?color_snake=#74aa9c&color_dots=#161b22,#392b5b,#5a3e91,#7c52c6,#9d66ff
         
       # Faz o push dos arquivos gerados para a branch 'output'
