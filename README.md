@@ -55,7 +55,7 @@ I leverage cutting-edge AI technologies to innovate and streamline development, 
 | :--- | :--- | :--- |
 | **OpenAI** | ChatGPT / GPT-4o | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) |
 | **Google** | Gemini 3 Pro | ![Google Gemini](https://img.shields.io/badge/Google_Gemini-1F67FF?style=for-the-badge&logo=google&logoColor=white) |
-| **Anthropic** | Claude 3.5 Sonnet | ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) |
+| **Anthropic** | Claude Opus 4.5 | ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) |
 | **Alibaba** | Qwen 2.5 | ![Qwen](https://img.shields.io/badge/Qwen-515BD4?style=for-the-badge&logo=alibabacloud&logoColor=white) |
 | **Moonshot** | Kimi | ![Kimi](https://img.shields.io/badge/Kimi-00D2BE?style=for-the-badge&logo=rocket&logoColor=white) |
 | **DeepSeek** | DeepSeek-V3 / R1 | ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white) |
