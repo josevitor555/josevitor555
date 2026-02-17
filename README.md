@@ -104,7 +104,7 @@ Showcasing development progress, tutorials, and deep dives into the IAArena proj
 
 ---
 
-![snake gif](https://raw.githubusercontent.com/josevitor555/josevitor555/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/josevitor555/josevitor555/output/github-contribution-grid-snake-dark.svg?v=1)
 
 ---
 
