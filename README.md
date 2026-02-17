@@ -47,6 +47,8 @@ I leverage cutting-edge AI technologies to innovate and streamline development, 
 
 *One example of application was the implementation of the Gemma Model in addition to the more popular Gemini model. The goal was to test and validate the LLM responses in the application's MVP before the beta release.*
 
+---
+
 ### AI & LLM Ecosystem (Multi-Model Integration)
 
 | Provider | Model / Interface | Badge |
