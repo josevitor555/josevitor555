@@ -67,6 +67,7 @@ I leverage cutting-edge AI technologies to innovate and streamline development, 
 ### Learning Focus & Next Steps
 | Area of Focus | Detail | Strategic Goal |
 | :--- | :--- | :--- |
+| **Advanced AI & LLMs** | **RAG**, **MCP** (Model Context Protocol), Fine-tuning, Agentic Workflows | Build context-aware systems with seamless tool integration and high semantic precision. |
 | **Advanced Frontend** | Next.js, TypeScript (advanced typing) | Improve performance (SSR/SSG), scalability, and code maintainability. |
 | **DevOps** | CI/CD pipelines, Containerization | Increase deployment agility and infrastructure management. |
 | **Web Quality** | Performance, SEO, Accessibility | Ensure digital products are optimized for the market and users. |
