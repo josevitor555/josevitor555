@@ -104,6 +104,10 @@ Showcasing development progress, tutorials, and deep dives into the IAArena proj
 
 ---
 
+![snake gif](https://raw.githubusercontent.com/josevitor555/josevitor555/output/github-contribution-grid-snake.svg)
+
+---
+
 ### Conclusion
 
 Thank you for reviewing my profile and the solutions I'm building. My work is defined by the intersection of robust backend engineering, cutting-edge frontend architecture, and strategic branding. I am passionate about technology and dedicated to continuous improvement and innovation, especially in the AI and DevOps space.
