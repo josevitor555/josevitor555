@@ -21,14 +21,14 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Gera a animação da cobrinha a partir das contribuições
+      # Gera a animação com cores personalizadas (Estilo IAArena)
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#39d353&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#74aa9c&color_dots=#161b22,#392b5b,#5a3e91,#7c52c6,#9d66ff
         
       # Faz o push dos arquivos gerados para a branch 'output'
       - name: push github-contribution-grid-snake.svg to the output branch
