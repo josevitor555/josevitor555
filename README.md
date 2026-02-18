@@ -65,7 +65,7 @@ I leverage cutting-edge AI technologies to innovate and streamline development, 
 | **Moonshot** | Kimi | ![Kimi](https://img.shields.io/badge/Kimi-00D2BE?style=for-the-badge&logo=rocket&logoColor=white) |
 | **DeepSeek** | DeepSeek-V3 / R1 | ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white) |
 | **Meta** | Llama 3.2 | ![Llama](https://img.shields.io/badge/Llama-044AFE?style=for-the-badge&logo=meta&logoColor=white) |
-| **xAI** | Grok-2 | ![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white) |
+| **Mistral AI** | Mistral Large 3 | ![Mistral](https://img.shields.io/badge/Mistral-F5D140?style=for-the-badge&logo=mistralai&logoColor=black) |
 
 ---
 
