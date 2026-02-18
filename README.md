@@ -1,9 +1,9 @@
 
-<img width="1024" height="1024" alt="Gemini_Generated_Image_ix9dslix9dslix9d" src="https://github.com/user-attachments/assets/aa8b6267-cafd-4e22-bed1-b46830ea9e9b" />
 
+<img width="1024" height="725" alt="Gemini_Generated_Image_ix9dslix9dslix9d" src="https://github.com/user-attachments/assets/8cbb0957-4c70-4e7b-aa56-cfd662e2123a" />
 
+### Hi, I’m Jose Vitor!
 
-### Hi, I’m Jose Vitor
 ### Full-stack Web Developer & Systems Analysis Student
 
 **Bridging strategic design and robust engineering to build modern web applications.**
