@@ -1,3 +1,7 @@
+
+<img width="1024" height="1024" alt="Gemini_Generated_Image_wwkvzjwwkvzjwwkv" src="https://github.com/user-attachments/assets/056e8154-4820-4cd8-89c5-f7d788b14dd5" />
+
+
 ### Hi, I’m Jose Vitor
 ### Full-stack Web Developer & Systems Analysis Student
 
