@@ -1,6 +1,7 @@
 
 
-<img width="1024" height="725" alt="Gemini_Generated_Image_ix9dslix9dslix9d" src="https://github.com/user-attachments/assets/8cbb0957-4c70-4e7b-aa56-cfd662e2123a" />
+<img width="1536" height="583" alt="Gemini_Generated_Image_i2f3hii2f3hii2f3" src="https://github.com/user-attachments/assets/327207cf-7b30-4cbf-ae9b-02a44826b26d" />
+
 
 ### Hi, I’m Jose Vitor!
 
