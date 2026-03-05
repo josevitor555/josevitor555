@@ -1,5 +1,5 @@
 
-![dadb379aeb49e2e236ecf289bfcdcf80](https://github.com/user-attachments/assets/65dbf5a6-7d63-45ae-ac2d-3ee2ab2119ba)
+![7d9142832704fa9a9da247a1ec53e817](https://github.com/user-attachments/assets/06f291ca-6c08-4b0a-a2aa-35ac53d2ede7)
 
 ### Hi, I’m Jose Vitor!
 
