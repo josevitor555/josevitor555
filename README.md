@@ -1,6 +1,3 @@
-
-![dadb379aeb49e2e236ecf289bfcdcf80](https://github.com/user-attachments/assets/feca4b73-0145-465e-89e7-2927d428d07c)
-
 ### Hi, I’m Jose Vitor!
 
 ### Full-stack Web Developer & Systems Analysis Student
