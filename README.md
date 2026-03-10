@@ -1,3 +1,6 @@
+
+<img width="839" height="506" alt="Captura de tela 2026-03-10 095950" src="https://github.com/user-attachments/assets/e17172c7-375a-458e-bd84-c5845f4ca575" />
+
 ### Hi, I’m Jose Vitor!
 
 ### Full-stack Web Developer & Systems Analysis Student
