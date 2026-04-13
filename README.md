@@ -1,6 +1,3 @@
-
-<img width="740" height="325" alt="Captura de tela 2026-03-10 095950" src="https://github.com/user-attachments/assets/42d3c1ea-0065-444a-aa62-4fd8d8713d4e" />
-
 ### Hi, I’m Jose Vitor!
 
 
