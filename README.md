@@ -21,9 +21,17 @@
 ---
 
 ### About Me
-I began my professional journey in technology in 2019, initially focusing on front-end development and web design. This initial focus on **UX/UI and visual identity** is now a core strength, ensuring the robust applications I build are also strategic and highly engaging.
+I am a Full-stack Software Engineer dedicated to bridging the gap between scalable backend architecture and intelligent AI-driven interfaces. With a professional journey that began in 2019, I combine a strong foundation in UX/UI Strategy with rigorous engineering principles to build high-performance digital products.
 
-After completing high school in 2023, I enrolled in the Systems Analysis and Development undergraduate program in 2024. I specialize in **Python** (specifically the **Django** framework) for building reliable backends, and I am focused on the modern front-end ecosystem: **React.js**, **Next.js**, and **TypeScript**. I maintain practical experience with a multi-paradigm database workflow, integrating **MySQL**, **MongoDB**, and **Supabase** across my projects.
+Currently pursuing a degree in Systems Analysis and Development (IFPI), I have centered my technical evolution on a Unified TypeScript Ecosystem:
+
+Advanced Backend: Specializing in NestJS, I build modular, maintainable, and enterprise-grade server-side applications. I leverage Dependency Injection, Microservices, and TypeORM/Prisma to handle complex data flows and AI integrations.
+
+Modern Frontend: An expert in Next.js (App Router), I utilize Server Components, Edge Functions, and Optimistic UI patterns to deliver lightning-fast user experiences with a focus on SEO and conversion.
+
+AI & Innovation: I specialize in RAG (Retrieval-Augmented Generation) and MCP (Model Context Protocol), engineering context-aware systems that transform raw data into intelligent, actionable insights.
+
+My goal is to engineer software that is not only technically robust but also strategically aligned with brand identity and business scalability.
 
 ---
 
