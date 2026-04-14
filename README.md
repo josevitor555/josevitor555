@@ -39,7 +39,7 @@ My goal is to engineer software that is not only technically robust but also str
 
 | Category | Key Technologies | Architectural Focus |
 | :--- | :--- | :--- |
-| **Backend & Systems** | Python, Django, RESTful & GraphQL API Development | Scalability, System Reliability |
+| **Backend & Systems** | Python, Django, JavaScript Nest.js RESTful & GraphQL API Development | Scalability, System Reliability |
 | **Frontend Ecosystem** | HTML5, CSS3, JavaScript / ES6+, React.js, **Next.js**, **TypeScript** | Performance, Modern Architecture (SSR/SSG) |
 | **Design & Tools** | Vite, Tailwind CSS, UX/UI, Branding, Responsive/Mobile-First | Visual Identity, Usability, Rapid Prototyping |
 | **Databases** | MySQL (Relational), MongoDB (NoSQL), Supabase (BaaS, Auth) | Multi-Paradigm Data Modeling |
