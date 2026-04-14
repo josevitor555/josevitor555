@@ -25,11 +25,11 @@ I am a Full-stack Software Engineer dedicated to bridging the gap between scalab
 
 Currently pursuing a degree in Systems Analysis and Development (IFPI), I have centered my technical evolution on a Unified TypeScript Ecosystem:
 
-Advanced Backend: Specializing in NestJS, I build modular, maintainable, and enterprise-grade server-side applications. I leverage Dependency Injection, Microservices, and TypeORM/Prisma to handle complex data flows and AI integrations.
+1) Advanced Backend: Specializing in NestJS, I build modular, maintainable, and enterprise-grade server-side applications. I leverage Dependency Injection, Microservices, and TypeORM/Prisma to handle complex data flows and AI integrations.
 
-Modern Frontend: An expert in Next.js (App Router), I utilize Server Components, Edge Functions, and Optimistic UI patterns to deliver lightning-fast user experiences with a focus on SEO and conversion.
+2) Modern Frontend: An expert in Next.js (App Router), I utilize Server Components, Edge Functions, and Optimistic UI patterns to deliver lightning-fast user experiences with a focus on SEO and conversion.
 
-AI & Innovation: I specialize in RAG (Retrieval-Augmented Generation) and MCP (Model Context Protocol), engineering context-aware systems that transform raw data into intelligent, actionable insights.
+3) AI & Innovation: I specialize in RAG (Retrieval-Augmented Generation) and MCP (Model Context Protocol), engineering context-aware systems that transform raw data into intelligent, actionable insights.
 
 My goal is to engineer software that is not only technically robust but also strategically aligned with brand identity and business scalability.
 
