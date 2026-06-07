@@ -1,7 +1,7 @@
 ### Hi, I’m Jose Vitor!
 
 
-### Full-stack Web Developer & Systems Analysis Student
+### Full-stack Web Developer & Systems Analysis
 
 **Bridging strategic design and robust engineering to build modern web applications.**
 
