@@ -58,7 +58,7 @@ IAArena is designed to provide more than a conventional chatbot experience. It c
 
 **Stack:** Next.js, TypeScript, Tailwind CSS and Supabase.
 
-[Live Demo](https://portolio-iaarena.onrender.com/)
+[Landing Page - IA Arena](https://portolio-iaarena.onrender.com/)
 
 ---
 
