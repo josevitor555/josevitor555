@@ -85,25 +85,39 @@ The application uses vector embeddings and semantic similarity search to identif
 
 ---
 
-### Kocho — AI Portfolio Assistant
+### NovaVisionHub
 
-**Conversational assistant capable of answering questions about my professional background.**
+**Commercial platform developed for a company focused on video editors, motion designers and digital creators.**
 
-Kocho uses RAG and vector search to retrieve information from my professional history and generate context-aware responses.
+NovaVisionHub is a commercial web platform designed for professionals and enthusiasts of video editing, After Effects, audiovisual production and geek culture.
 
-Instead of relying exclusively on the language model's internal knowledge, the application retrieves relevant information from a vector database before generating each answer.
+I worked as the **solo Full-Stack Developer**, helping transform the company's product vision into a production-ready application. My responsibilities covered both the frontend implementation and the evolution of the platform, ensuring the product aligned with business requirements and user experience goals.
 
-**Main features:**
+**Main contributions:**
 
-* conversational portfolio navigation;
-* semantic retrieval;
-* 1024-dimensional vector embeddings;
-* context-aware responses;
-* retrieval from professional and project data.
+* full-stack development of the application;
+* responsive interface implementation;
+* reusable component architecture;
+* frontend and backend integration;
+* technical implementation of business requirements;
+* continuous product evolution and maintenance;
+* collaboration with the company throughout the development process.
 
-**Stack:** LangChain, Node.js, MongoDB Atlas Vector Search and Mistral AI.
+**Target audience:**
 
-[Live Demo](https://my-portfolio2025-langchain-1.onrender.com/)
+* video editors;
+* motion designers;
+* After Effects professionals;
+* audiovisual creators;
+* geek-content communities.
+
+**Stack:** React, TypeScript, Tailwind CSS, Node.js and modern web technologies.
+
+**Role:** Solo Full-Stack Developer
+
+**Project Type:** Commercial product developed for a company
+
+**Status:** Delivered
 
 ---
 
