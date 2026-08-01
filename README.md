@@ -1,133 +1,319 @@
-### Hi, I’m Jose Vitor!
+# Hi, I'm José Vitor
 
+### Full-Stack Developer | TypeScript, NestJS, Next.js and AI Engineering
 
-### Full-stack Web Developer & Systems Analysis
+I build modern web applications by combining modular backend architecture, responsive interfaces and AI-powered features.
 
-**Bridging strategic design and robust engineering to build modern web applications.**
-
----
-
-### Featured Projects (Focus: Full-Stack & Innovation)
-*Highlighting the integration of complex systems and strategic interfaces.*
-
-| Project | Description | Main Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **[Portfolio my SAAS](https://portolio-iaarena.onrender.com/)** | IAArena aims to transform the way humans interact, learn, and debate with artificial intelligence. More than just a chat, it's a space for argumentation, creativity, and critical thinking mediated by AI—an environment where reasoning becomes a game. | Next.js, TypeScript, Tailwind CSS, Supabase | Live (Production) |
-| **[SQIAIgen](https://github.com/josevitor555/SQLAIGen.git)** | SQLAIGen is a project focused on generating SQL queries from natural language. The solution utilizes a Vector Database and the RAG (Retrieval-Augmented Generation) technique to enrich the prompt with semantic context, using 1024-dimensional embeddings to ensure high accuracy in schema-to-query retrieval. | React, TypeScript, Adonis, Supabase (PGVector - Similarity Search), RAG, Mistral AI | Active |
-| **[black_thunder](https://github.com/josevitor555/black_thunder.git)** | Application with strong visual identity, focused on branding and interface engineering. | React, SCSS, UX/UI, Vite | Complete |
-| **[E-commercer With Stripe Integration](https://github.com/josevitor555/SolarProject_Stripe.git)** | An e-commerce platform for solar panels, with an authentication system built in Django (Python). The system is still in production with an interface built in React (TypeScript) and integrated with a payment system called Stripe. | Django, React, PostgreSQL | In Production |
-| **[Kocho - Portfolio AI](https://my-portfolio2025-langchain-1.onrender.com/)** | An intelligent assistant that navigates a 1024-dimensional vector space. It uses RAG (Retrieval-Augmented Generation) to process my professional history and respond with high precision and personality. | LangChain, Node.js, MongoDB Atlas (Vector Search), Mistral AI | Live (Production)
-
----
-
-### About Me
-I am a Full-stack Software Engineer dedicated to bridging the gap between scalable backend architecture and intelligent AI-driven interfaces. With a professional journey that began in 2019, I combine a strong foundation in UX/UI Strategy with rigorous engineering principles to build high-performance digital products.
-
-Currently pursuing a degree in Systems Analysis and Development (IFPI), I have centered my technical evolution on a Unified TypeScript Ecosystem:
-
-1) Advanced Backend: Specializing in NestJS, I build modular, maintainable, and enterprise-grade server-side applications. I leverage Dependency Injection, Microservices, and TypeORM/Prisma to handle complex data flows and AI integrations.
-
-2) Modern Frontend: An expert in Next.js (App Router), I utilize Server Components, Edge Functions, and Optimistic UI patterns to deliver lightning-fast user experiences with a focus on SEO and conversion.
-
-3) AI & Innovation: I specialize in RAG (Retrieval-Augmented Generation) and MCP (Model Context Protocol), engineering context-aware systems that transform raw data into intelligent, actionable insights.
-
-My goal is to engineer software that is not only technically robust but also strategically aligned with brand identity and business scalability.
-
----
-
-### Technical Stack (Skills Overview)
-
-| Category | Key Technologies | Architectural Focus |
-| :--- | :--- | :--- |
-| **Backend & Systems** | Python Django, JavaScript Nest.js, RESTful & GraphQL, API Development | Scalability, System Reliability |
-| **Frontend Ecosystem** | HTML5, CSS3, JavaScript / ES6+, React.js, **Next.js**, **TypeScript** | Performance, Modern Architecture (SSR/SSG) |
-| **Design & Tools** | Vite, Tailwind CSS, UX/UI, Branding, Responsive/Mobile-First | Visual Identity, Usability, Rapid Prototyping |
-| **Databases** | MySQL (Relational), MongoDB (NoSQL), Supabase (BaaS, Auth) | Multi-Paradigm Data Modeling |
-| **Workflow** | Git & GitHub, VS Code, Agile (SCRUM/Kanban), Unit Testing | Version Control, Productivity, Process Agility |
-
----
-
-### AI & LLM Integration (A Core Differentiator)
-I leverage cutting-edge AI technologies to innovate and streamline development, demonstrating proficiency in handling complex API integrations and context management.
-
-| Platform | Type | Use Case/Role |
-| :--- | :--- | :--- |
-| **LLMs (API Integration)** | ChatGPT, Gemini, Grok, Claude | Chatbots, Intelligent Data Analysis, Semantic Understanding. |
-| **AI-Powered IDEs** | GitHub Copilot, Trae, Qoder, Cursor | Code generation, Real-time suggestions, Debugging, Efficiency. |
-
-*One example of application was the implementation of the Gemma Model in addition to the more popular Gemini model. The goal was to test and validate the LLM responses in the application's MVP before the beta release.*
-
----
-
-### AI & LLM Ecosystem (Multi-Model Integration)
-
-| Provider | Model / Interface | Badge |
-| :--- | :--- | :--- |
-| **OpenAI** | ChatGPT / GPT-4o | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) |
-| **Google** | Gemini 3 Pro | ![Google Gemini](https://img.shields.io/badge/Google_Gemini-1F67FF?style=for-the-badge&logo=google&logoColor=white) |
-| **Anthropic** | Claude Opus 4.5 | ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) |
-| **Alibaba** | Qwen 2.5 | ![Qwen](https://img.shields.io/badge/Qwen-515BD4?style=for-the-badge&logo=alibabacloud&logoColor=white) |
-| **Moonshot** | Kimi | ![Kimi](https://img.shields.io/badge/Kimi-00D2BE?style=for-the-badge&logo=rocket&logoColor=white) |
-| **DeepSeek** | DeepSeek-V3 / R1 | ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white) |
-| **Meta** | Llama 3.2 | ![Llama](https://img.shields.io/badge/Llama-044AFE?style=for-the-badge&logo=meta&logoColor=white) |
-| **Mistral AI** | Mistral Large 3 | ![Mistral](https://img.shields.io/badge/Mistral-F5D140?style=for-the-badge&logo=mistralai&logoColor=black) |
-
----
-
-### Learning Focus & Next Steps
-| Area of Focus | Detail | Strategic Goal |
-| :--- | :--- | :--- |
-| **Advanced AI & LLMs** | **RAG**, **MCP** (Model Context Protocol), Fine-tuning, Agentic Workflows | Build context-aware systems with seamless tool integration and high semantic precision. |
-| **Advanced Frontend** | Next.js, TypeScript (advanced typing) | Improve performance (SSR/SSG), scalability, and code maintainability. |
-| **DevOps** | CI/CD pipelines, Containerization | Increase deployment agility and infrastructure management. |
-| **Web Quality** | Performance, SEO, Accessibility | Ensure digital products are optimized for the market and users. |
-| **Branding** | Application of principles in digital products | Develop solutions that are technically solid and strategically aligned with the brand. |
-
----
-
-### GitHub Metrics & Activity
-*Public Repositories: 139 | Commits in 2025: 284 | Completed Projects: 99*
+My main areas of interest include **full-stack development**, **Retrieval-Augmented Generation (RAG)**, **vector databases**, **LLM integrations** and scalable web architecture.
 
 <p align="left">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=josevitor555&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://linkedin.com/in/josé-vitor-sousa2003" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:josevitordesousa123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/josevitor555" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://dribbble.com/kral123" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
+  </a>
 </p>
 
 ---
 
-### Connect with Me
+## About Me
 
-I am actively seeking roles where I can apply my full-stack skills and deepen my expertise in Next.js/TypeScript and DevOps.
+I am a full-stack developer focused on building maintainable web applications with modern frontend technologies, modular backend architectures and intelligent AI integrations.
+
+My journey in web development began in 2019. Since then, I have worked on projects involving authentication, payment processing, relational and vector databases, REST APIs, semantic retrieval and generative AI.
+
+I am currently pursuing a degree in **Systems Analysis and Development at IFPI**, where I continue to strengthen my knowledge of software engineering, system modeling, databases and application architecture.
+
+My current technical focus is based on four areas:
+
+* **Backend Engineering:** modular APIs with NestJS, Django, Prisma and PostgreSQL;
+* **Frontend Development:** responsive applications with React, Next.js and TypeScript;
+* **AI Engineering:** RAG pipelines, embeddings, vector search and LLM integrations;
+* **Software Quality:** testing, maintainability, documentation and deployment workflows.
+
+---
+
+## Featured Projects
+
+### IAArena
+
+**AI-mediated debate, learning and critical-thinking platform.**
+
+IAArena is designed to provide more than a conventional chatbot experience. It creates an environment where users can interact with artificial intelligence through structured debates, argumentation and reasoning-oriented activities.
+
+**Main features:**
+
+* AI-mediated conversations and debates;
+* persistent user sessions;
+* authentication and data management;
+* responsive user interface;
+* production deployment.
+
+**Stack:** Next.js, TypeScript, Tailwind CSS and Supabase.
+
+[Live Demo](https://portolio-iaarena.onrender.com/)
+
+---
+
+### SQLAIGen
+
+**Natural-language-to-SQL generation using RAG and vector similarity search.**
+
+SQLAIGen converts natural-language requests into SQL queries by retrieving relevant database-schema context before generating the final response.
+
+The application uses vector embeddings and semantic similarity search to identify the most relevant schema elements for each user request.
+
+**Main features:**
+
+* natural-language SQL generation;
+* schema-aware semantic retrieval;
+* Retrieval-Augmented Generation;
+* vector similarity search with PGVector;
+* 1024-dimensional embeddings;
+* contextual prompt enrichment.
+
+**Stack:** React, TypeScript, AdonisJS, Supabase, PostgreSQL, PGVector, RAG and Mistral AI.
+
+[View Repository](https://github.com/josevitor555/SQLAIGen.git)
+
+---
+
+### Kocho — AI Portfolio Assistant
+
+**Conversational assistant capable of answering questions about my professional background.**
+
+Kocho uses RAG and vector search to retrieve information from my professional history and generate context-aware responses.
+
+Instead of relying exclusively on the language model's internal knowledge, the application retrieves relevant information from a vector database before generating each answer.
+
+**Main features:**
+
+* conversational portfolio navigation;
+* semantic retrieval;
+* 1024-dimensional vector embeddings;
+* context-aware responses;
+* retrieval from professional and project data.
+
+**Stack:** LangChain, Node.js, MongoDB Atlas Vector Search and Mistral AI.
+
+[Live Demo](https://my-portfolio2025-langchain-1.onrender.com/)
+
+---
+
+### Solar E-commerce
+
+**Full-stack e-commerce application with Stripe payment integration.**
+
+This project is an e-commerce platform for solar-energy products. It combines a React interface with a Django backend, user authentication, relational data persistence and online payment processing.
+
+**Main features:**
+
+* user registration and authentication;
+* product catalog;
+* shopping and checkout workflow;
+* Stripe payment integration;
+* PostgreSQL data persistence;
+* frontend and backend separation.
+
+**Stack:** Django, Python, React, TypeScript, PostgreSQL and Stripe.
+
+[View Repository](https://github.com/josevitor555/SolarProject_Stripe.git)
+
+---
+
+### Black Thunder
+
+**Frontend application focused on visual identity, branding and interface engineering.**
+
+Black Thunder explores the relationship between software development and digital brand identity through a responsive and visually distinctive interface.
+
+**Main features:**
+
+* responsive interface;
+* component-based frontend architecture;
+* custom visual identity;
+* SCSS styling;
+* interface and branding experimentation.
+
+**Stack:** React, Vite, SCSS and UX/UI Design.
+
+[View Repository](https://github.com/josevitor555/black_thunder.git)
+
+---
+
+## Technical Stack
+
+### Backend and APIs
 
 <p align="left">
-  <a href="https://linkedin.com/in/josé-vitor-sousa2003" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/josevitor555" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:josevitordesousa123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://dribbble.com/kral123" target="_blank">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
-  </a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
+</p>
+
+* NestJS and Node.js;
+* Django and Python;
+* REST API development;
+* GraphQL fundamentals;
+* dependency injection;
+* modular architecture;
+* authentication and authorization;
+* JWT and password hashing;
+* integration with external services and LLM APIs.
+
+### Frontend
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+</p>
+
+* React and Next.js;
+* TypeScript;
+* component-based architecture;
+* responsive and mobile-first interfaces;
+* server-side rendering;
+* static generation;
+* API integration;
+* Tailwind CSS and SCSS;
+* usability and interface consistency.
+
+### Databases and Data Access
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+</p>
+
+* PostgreSQL and MySQL;
+* MongoDB;
+* Supabase;
+* Prisma ORM;
+* relational data modeling;
+* NoSQL document modeling;
+* database migrations;
+* vector databases;
+* PGVector and similarity search.
+
+### AI Engineering
+
+<p align="left">
+  <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-blueviolet?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Vector_Search-005571?style=flat-square" alt="Vector Search" />
+  <img src="https://img.shields.io/badge/LLM_APIs-412991?style=flat-square" alt="LLM APIs" />
+</p>
+
+* Retrieval-Augmented Generation;
+* embeddings and semantic search;
+* vector similarity retrieval;
+* LangChain;
+* prompt context enrichment;
+* structured LLM responses;
+* multi-provider LLM API integration;
+* AI assistants and conversational interfaces;
+* Model Context Protocol fundamentals;
+* agentic workflow experimentation.
+
+### Tools and Infrastructure
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+* Git and GitHub;
+* Docker and containerized environments;
+* Jest and unit testing;
+* Postman and API testing;
+* CI/CD fundamentals;
+* Render and Vercel deployments;
+* agile workflows with Scrum and Kanban;
+* technical documentation.
+
+---
+
+## AI and LLM Experience
+
+I use language models as components inside software systems rather than only as conversational tools.
+
+My projects explore how models can interact with application data, retrieve contextual information, generate structured outputs and support users through specialized interfaces.
+
+I have experience integrating APIs and tools from providers such as:
+
+* OpenAI;
+* Google;
+* Anthropic;
+* Mistral AI;
+* Meta;
+* DeepSeek;
+* Alibaba Cloud;
+* Moonshot AI.
+
+My main interest is not tied to a specific model version. I focus on designing architectures that allow providers and models to be evaluated or replaced without rewriting the entire application.
+
+---
+
+## Current Learning Focus
+
+| Area                      | Current Focus                                          | Goal                                                                |
+| :------------------------ | :----------------------------------------------------- | :------------------------------------------------------------------ |
+| **AI Engineering**        | RAG, MCP, agentic workflows and structured outputs     | Build context-aware systems with reliable tool and data integration |
+| **Backend Architecture**  | NestJS, modular design, queues and distributed systems | Improve scalability, maintainability and fault isolation            |
+| **Frontend Architecture** | Next.js, advanced TypeScript and rendering strategies  | Build faster and more maintainable user interfaces                  |
+| **DevOps**                | Docker, CI/CD and deployment automation                | Improve delivery reliability and infrastructure management          |
+| **Software Quality**      | Unit tests, integration tests and observability        | Increase system reliability and reduce regressions                  |
+| **Web Quality**           | Accessibility, SEO and performance                     | Build applications optimized for users and production environments  |
+
+---
+
+## GitHub Activity
+
+<p align="left">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=josevitor555&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
 
-### My YouTube Channel about IAArena Project
-Showcasing development progress, tutorials, and deep dives into the IAArena project (Content primarily in Brazilian Portuguese).
+## YouTube — IAArena Development
 
-**Channel Link:** [https://www.youtube.com/@IAArena-b8b](https://www.youtube.com/@IAArena-b8b)
+I share development progress, technical experiments and project updates related to IAArena.
 
-**Subscribe for more information about this project!**
+The content is primarily presented in Brazilian Portuguese.
 
----
-
-![snake gif](https://raw.githubusercontent.com/josevitor555/josevitor555/output/github-contribution-grid-snake-dark.svg?v=1)
+[Visit the IAArena YouTube Channel](https://www.youtube.com/@IAArena-b8b)
 
 ---
 
-### Conclusion
+## Contact
 
-Thank you for reviewing my profile and the solutions I'm building. My work is defined by the intersection of robust backend engineering, cutting-edge frontend architecture, and strategic branding. I am passionate about technology and dedicated to continuous improvement and innovation, especially in the AI and DevOps space.
+I am currently interested in opportunities where I can contribute to full-stack applications while expanding my experience with **TypeScript, NestJS, Next.js, AI Engineering and DevOps**.
+
+* [LinkedIn](https://linkedin.com/in/josé-vitor-sousa2003)
+* [GitHub](https://github.com/josevitor555)
+* [Email](mailto:josevitordesousa123@gmail.com)
+* [Dribbble](https://dribbble.com/kral123)
+
+---
+
+![GitHub contribution snake animation](https://raw.githubusercontent.com/josevitor555/josevitor555/output/github-contribution-grid-snake-dark.svg?v=1)
