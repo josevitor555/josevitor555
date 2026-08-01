@@ -89,27 +89,27 @@ The application uses vector embeddings and semantic similarity search to identif
 
 **Commercial platform developed for a company focused on video editors, motion designers and digital creators.**
 
-NovaVisionHub is a commercial web platform designed for professionals and enthusiasts of video editing, After Effects, audiovisual production and geek culture.
+NovaVisionHub is a commercial web platform created for professionals and enthusiasts of video editing, After Effects, audiovisual production and geek culture.
 
-I worked as the **solo Full-Stack Developer**, helping transform the company's product vision into a production-ready application. My responsibilities covered both the frontend implementation and the evolution of the platform, ensuring the product aligned with business requirements and user experience goals.
+I worked as the **Solo Full-Stack Developer**, helping transform the company's product vision into a production-ready application. I was responsible for implementing the platform, developing responsive interfaces, integrating application features and continuously evolving the product according to business requirements.
 
 **Main contributions:**
 
-* full-stack development of the application;
-* responsive interface implementation;
-* reusable component architecture;
-* frontend and backend integration;
-* technical implementation of business requirements;
-* continuous product evolution and maintenance;
-* collaboration with the company throughout the development process.
+* Full-stack development of the platform;
+* Responsive interface implementation;
+* Reusable component architecture;
+* Frontend and backend integration;
+* Technical implementation of business requirements;
+* Continuous product evolution and maintenance;
+* Collaboration with the company throughout the development lifecycle.
 
 **Target audience:**
 
-* video editors;
-* motion designers;
+* Video editors;
+* Motion designers;
 * After Effects professionals;
-* audiovisual creators;
-* geek-content communities.
+* Audiovisual creators;
+* Geek-content communities.
 
 **Stack:** React, TypeScript, Tailwind CSS, Node.js and modern web technologies.
 
@@ -117,7 +117,9 @@ I worked as the **solo Full-Stack Developer**, helping transform the company's p
 
 **Project Type:** Commercial product developed for a company
 
-**Status:** Delivered
+**Status:** Live (Production)
+
+**Live Demo:** https://www.novavisionhub.com/home
 
 ---
 
